@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    top: 15%;
+	background:linear-gradient(to right, rgb(239, 241, 64) , rgb(2, 85, 37), rgb(3, 117, 3),rgb(48, 71, 1)); /* Standard syntax */
+}
+h1 {
+        font-family:'Raleway', sans-serif;
+        font-size:3rem;
+        font-style:bold;
+        color: rgba(186, 248, 104, 0.5);
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: .1em;
+        width: 100%;
+    }
+    
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        font-weight: lighter;
+        text-decoration: none;
+        line-height: 30px;
+        color: rgba(8, 8, 8, 0.911);
+        text-align: center;
+        text-transform:uppercase;
+        font-size:1rem;
+    }
+    
