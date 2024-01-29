@@ -109,13 +109,13 @@ body{
   and (max-device-width: 1600px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (min-resolution: 192dpi) { 
-}
+}*/
 @media only screen and (max-width:600px) {
     .main-nav {
       font-size:0.5em;
       padding: auto 0;
     }
-  }*/
+  }
 a{
     color: #FFF;
     text-decoration: none;
