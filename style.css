@@ -106,8 +106,7 @@ display: block;
 @media only screen and (max-width:600px) {
 /* For mobile phones: */
   .main-nav {
-    width:99;
-    font-size: 90%;
+    width:99%;
   }
 }
   @media only screen and (min-width: 600px) {
