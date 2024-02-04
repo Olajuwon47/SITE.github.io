@@ -102,11 +102,19 @@ background-color: #83de7b;
 .show {
 display: block;
 }
- 
+
+/* ----------- Retina Screens ----------- 
+@media screen 
+and (min-device-width: 1200px) 
+and (max-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 2)
+and (min-resolution: 192dpi) { 
+}*/
 @media only screen and (max-width:600px) {
 /* For mobile phones: */
   .main-nav {
-    width:99%;
+    font-size:0.5em;
+    padding: 20px;
   }
 }
   @media only screen and (min-width: 600px) {
