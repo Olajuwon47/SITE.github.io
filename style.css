@@ -101,7 +101,7 @@ body{
 }
 .show {
   display: block;
-}\/
+}
 
 /* ----------- Retina Screens ----------- 
 @media screen 
@@ -114,7 +114,7 @@ body{
   @media only screen and (max-width:600px) {
     .main-nav {
       font-size:0.5em;
-      padding:auto 0;
+      padding:auto;
     }
   }
 a{
